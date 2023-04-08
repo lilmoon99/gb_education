@@ -1,7 +1,9 @@
 # Короткий гайд по Git
+Git  — распределённая система управления версиями. Проект был создан Линусом Торвальдсом для управления разработкой ядра Linux, первая версия выпущена 7 апреля 2005 года.
 
-> ***Ты можешь не уметь кодить, но пользоваться гитом - обязан.***
+![Linus Torvalds](/images/Torvalds.jpg "Linus Torvalds")
 
+> I'm an egotistical bastard, so I name all my projects after myself. First Linux, now git - **Linus Benedict Torvalds**
 ## Основные команды
 ![git_logo](/images/git_logo_2.jpeg)
 
@@ -32,6 +34,8 @@
 
 ## Ветвление и слияние
 ![git_bracnes_example](/images/branches.png)
+
+> ***Ты можешь не уметь кодить, но пользоваться гитом - обязан.***
 
 ### **git branch** 
  Это своего рода “менеджер веток”. Она умеет перечислять ваши ветки, создавать новые, удалять и переименовывать их.
@@ -67,7 +71,14 @@
 ### **git archive** 
  Команда git archive используется для упаковки в архив указанных коммитов или всего репозитория.
 
+### Ссылки
+[Шпаргалка по Git](https://proglib.io/p/git-cheatsheet/ "Представлены основные команды")
 
+[GitHub.com Git cheatsheet](https://training.github.com/downloads/ru/github-git-cheat-sheet/ "На русском языке")
 
-для дз: https://learn.microsoft.com/ru-ru/contribute/markdown-reference
+[Git Documentation](https://git-scm.com/doc)
+
+[Download Git](https://git-scm.com/downloads/ "Ссылка на скачивание Git")
+
+[Microsoft Markdown Guide](https://learn.microsoft.com/ru-ru/contribute/markdown-reference)
 
