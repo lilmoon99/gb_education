@@ -1,5 +1,7 @@
 **git branch** - список всех веток
 
-**git branch (branch_name)
+**git branch (branch_name)** - создание новой ветки
 
 **git checkout -b (branchname)** - создать ветку и сразу же в неё переместиться
+
+**(terminal powershell) new-item file.name** - создание нового файла через терминал powershell
