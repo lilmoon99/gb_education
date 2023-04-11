@@ -100,6 +100,18 @@ Cоздать ветку и сразу же в неё переместиться
 ### **new-item file.name**
 Cоздание нового файла через терминал powershell
 
+# Conflict simulator
+
+Задаются почти также, как и ссылки (2 способа)
+
+Задание ссылки на изображения сразу: 
+![alt text](http://k50.ru/img/logos/logo_on_red.png "Logo Title Text 1")
+
+Указание ссылки на изображение в сноске: 
+![alt text][logo]
+
+[logo]: http://k50.ru/img/logos/logo_on_red.png "Logo Title Text 2"
+
 ## Ссылки
 [Шпаргалка по Git](https://proglib.io/p/git-cheatsheet/ "Представлены основные команды")
 
