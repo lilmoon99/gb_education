@@ -4,6 +4,8 @@ Git  — распределённая система управления вер
 ![Linus Torvalds](/images/Torvalds.jpg "Linus Torvalds")
 
 > I'm an egotistical bastard, so I name all my projects after myself. First Linux, now git - **Linus Benedict Torvalds**
+
+
 ## Основные команды
 ![git_logo](/images/git_logo_2.jpeg)
 
@@ -41,6 +43,9 @@ Git  — распределённая система управления вер
 
 ### **git commit -am "message"** 
  Фиксирование измениний в терминале напрямую(без использования команды git add)
+
+### **git commit --amend -m "commit"**
+Переименовать последний коммит
 
 ### **git rm** 
  Команда git rm используется в Git для удаления файлов из индекса и рабочей директории. Она похожа на git add с тем лишь исключением, что она удаляет, а не добавляет файлы для следующего коммита.
