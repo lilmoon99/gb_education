@@ -71,7 +71,12 @@ Git  — распределённая система управления вер
 ### **git archive** 
  Команда git archive используется для упаковки в архив указанных коммитов или всего репозитория.
 
-### Ссылки
+## Команды Powershell
+
+### **new-item file.name**
+Cоздание нового файла через терминал powershell
+
+## Ссылки
 [Шпаргалка по Git](https://proglib.io/p/git-cheatsheet/ "Представлены основные команды")
 
 [GitHub.com Git cheatsheet](https://training.github.com/downloads/ru/github-git-cheat-sheet/ "На русском языке")
